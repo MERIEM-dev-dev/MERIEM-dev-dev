@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Contact Me: 
+[Linkedin](https://ma.linkedin.com/in/ahouzi-maryame/es?trk=people-guest_people_search-card) | [Twitter](https://twitter.com/MeriemAhouzi)  
