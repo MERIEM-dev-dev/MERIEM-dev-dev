@@ -8,11 +8,12 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on : Front end laguages 
 - 🌱 I’m currently learning : javascript
-<!--
+
 <!-- retro visitor counter -->
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/hamidoucheasmae/count.svg" />
 </p>
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
